@@ -69,7 +69,7 @@ Here are some ideas to get you started:
       <td><progress value="75" max="100"></progress> 50%</td>
     </tr>
     <tr>
-      <td>JavaScript</td>
+      <td>TypeScript</td>
       <td><progress value="75" max="100"></progress> 40%</td>
     </tr>
   </table>
