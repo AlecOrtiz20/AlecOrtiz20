@@ -23,22 +23,30 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+<h3>My Tech Skills</h3>
+<table>
+  <tr>
+    <td>Java</td>
+    <td><progress value="90" max="100"></progress> 90%</td>
+  </tr>
+  <tr>
+    <td>Spring Boot</td>
+    <td><progress value="85" max="100"></progress> 85%</td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td><progress value="80" max="100"></progress> 80%</td>
+  </tr>
+  <tr>
+    <td>MongoDB</td>
+    <td><progress value="70" max="100"></progress> 70%</td>
+  </tr>
+  <tr>
+    <td>JWT / Spring Security</td>
+    <td><progress value="75" max="100"></progress> 75%</td>
+  </tr>
 </table>
+
 
 
 <p align="center">
