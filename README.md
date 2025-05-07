@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+   <h1>Hello, my name is Alec Ortiz</h1>
+</p>
+
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
