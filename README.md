@@ -1,5 +1,48 @@
 ## Hi there 👋, my name is Alec Ortiz
 
+<style>
+  .skills-table {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+  }
+
+  .skills-table td {
+    padding: 10px 0;
+  }
+
+  .skill-name {
+    font-weight: bold;
+    width: 30%;
+    color: #ffffff;
+  }
+
+  .skill-bar {
+    background-color: #2e2e2e;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 20px;
+    width: 100%;
+  }
+
+  .skill-fill {
+    height: 100%;
+    text-align: right;
+    padding-right: 8px;
+    color: white;
+    line-height: 20px;
+    font-size: 13px;
+    border-radius: 5px;
+  }
+
+  .java { width: 90%; background-color: #007396; }
+  .spring { width: 85%; background-color: #6db33f; }
+  .mysql { width: 80%; background-color: #00758F; }
+  .mongodb { width: 70%; background-color: #4DB33D; }
+  .security { width: 75%; background-color: #fca311; }
+</style>
 <!--
 **AlecOrtiz20/AlecOrtiz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
