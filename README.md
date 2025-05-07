@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is Alec Ortiz
 
 <!--
 **AlecOrtiz20/AlecOrtiz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-   <h1>Hello, my name is Alec Ortiz</h1>
-</p>
-
-
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,springboot,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,js,mysql,mongodb,html,css" />
   </a>
 </p>
 
